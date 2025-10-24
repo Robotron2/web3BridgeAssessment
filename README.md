@@ -32,16 +32,20 @@ This project demonstrates the use of React, TailwindCSS for styling, and Jest wi
     cd web3BridgeAssessment
     ```
 2. ## Install Dependencies
-
+    ```
     npm install
-
+    ```
 3. ## Set up TailwindCSS
 
+    ```
     npx tailwindcss init -p
+    ```
 
 4. ## Start Dev server
 
+    ```
     npm run dev
+    ```
 
 5. ## Running Tests
 
