@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import "./index.css"
 import Scoreboard from "./components/Scoreboard"
-import { Leaderboard } from "./components/Leaderboard"
+import Leaderboard from "./components/Leaderboard"
 import Quiz from "./components/Quiz"
 import Start from "./components/Start"
 
@@ -52,7 +52,7 @@ export default function App() {
 		<div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 flex flex-col">
 			<header className="bg-gradient-to-r from-purple-600 to-blue-600 text-white py-6 shadow-lg">
 				<div className="max-w-6xl mx-auto px-4">
-					<h1 className="text-4xl font-bold text-center">🎯 Quiz Master</h1>
+					<h1 className="text-4xl font-bold text-center"> Quiz Master</h1>
 					<p className="text-center text-purple-100 mt-2">Test your knowledge and climb the leaderboard!</p>
 				</div>
 			</header>
