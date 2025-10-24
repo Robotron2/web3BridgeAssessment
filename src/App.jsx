@@ -72,10 +72,10 @@ export default function App() {
 
 			<footer className="bg-slate-900 text-slate-400 py-6 border-t border-slate-700">
 				<div className="max-w-6xl mx-auto px-4 text-center">
-					<p>Built with React + Vite + TailwindCSS</p>
+					<p>&copy; The0ph1lus</p>
 					<p className="text-sm mt-2">
 						<a
-							href="https://github.com"
+							href="https://github.com/robotron2"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="text-blue-400 hover:text-blue-300">

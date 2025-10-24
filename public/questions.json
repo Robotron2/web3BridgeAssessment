@@ -1,0 +1,52 @@
+[
+	{
+		"question": "What is the capital of France?",
+		"options": ["London", "Berlin", "Paris", "Madrid"],
+		"correct": "Paris"
+	},
+	{
+		"question": "Which planet is known as the Red Planet?",
+		"options": ["Venus", "Mars", "Jupiter", "Saturn"],
+		"correct": "Mars"
+	},
+	{
+		"question": "What is the largest ocean on Earth?",
+		"options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+		"correct": "Pacific Ocean"
+	},
+	{
+		"question": "Who wrote 'Romeo and Juliet'?",
+		"options": ["Jane Austen", "William Shakespeare", "Charles Dickens", "Mark Twain"],
+		"correct": "William Shakespeare"
+	},
+	{
+		"question": "What is the chemical symbol for Gold?",
+		"options": ["Go", "Gd", "Au", "Ag"],
+		"correct": "Au"
+	},
+	{
+		"question": "In what year did the Titanic sink?",
+		"options": ["1912", "1920", "1905", "1915"],
+		"correct": "1912"
+	},
+	{
+		"question": "What is the smallest prime number?",
+		"options": ["0", "1", "2", "3"],
+		"correct": "2"
+	},
+	{
+		"question": "Which country is home to the kangaroo?",
+		"options": ["New Zealand", "Australia", "South Africa", "Brazil"],
+		"correct": "Australia"
+	},
+	{
+		"question": "What is the speed of light?",
+		"options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+		"correct": "300,000 km/s"
+	},
+	{
+		"question": "Who painted the Mona Lisa?",
+		"options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+		"correct": "Leonardo da Vinci"
+	}
+]
